@@ -1,6 +1,3 @@
-datasciencecoursera
-===================
-
 #Cousera - Data science specialization
 
 ##Getting and Cleaning Data course
