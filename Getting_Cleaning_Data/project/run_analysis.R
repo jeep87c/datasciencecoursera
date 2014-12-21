@@ -1,8 +1,8 @@
-## Install missing packages and load
-## install.packages("data.table")
-## library(data.table)
+## 0 Install missing packages and load
+install.packages("data.table")
+library(data.table)
 
-# 1 Get & merge data
+## 1 Get & merge data
 
 ## 1.1 Unzip data
 unzip("getdata-projectfiles-UCI HAR Dataset.zip")
