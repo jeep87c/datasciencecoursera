@@ -36,10 +36,12 @@ These signals were used to estimate variables of the feature vector for each pat
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
+
 The set of variables that were estimated from these signals are:
 
 * mean(): Mean value
 * std(): Standard deviation
+
 
 2 extra variables has been added to the original data set which are :
 * subject : Reprensent the subject id who did the experimentation
